@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Photo</title>
+    <style>
+        .profile-img {
+            width: 300px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+    </style>
+</head>
+<body>
+    <h2>My Profile Picture</h2>
+    <img src="My-pic.jpg" alt="My Profile Photo" class="profile-img">
+</body>
+</html>
